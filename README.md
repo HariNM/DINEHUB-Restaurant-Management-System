@@ -5,7 +5,7 @@ DINEHUB is a restaurant management system designed to streamline operations and 
 ## Features
 
 - **User Management:** Secure user registration, login, and profile management.
-- **3D Tour:**Customers can view the Virtual 3D Tour of the Restaurant.
+- **3D Tour:** Customers can view the Virtual 3D Tour of the Restaurant.
 - **Reservations:** Efficient table booking and management with real-time availability.
 - **Menu Management:** Dynamic menu display with detailed item descriptions and pricing.
 - **Order Management:** Seamless order placement and tracking for customers and staff.
