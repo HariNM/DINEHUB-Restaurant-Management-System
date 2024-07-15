@@ -26,6 +26,10 @@ DINEHUB uses a microservices architecture with the following components:
 - PHP 7.4 or higher
 - VSCode or any Code Editor
 
+Collaborators:
+@Siyatheoptimist
+@ash-mitha
+
 
 ## Contributing
 
